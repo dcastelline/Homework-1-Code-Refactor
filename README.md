@@ -10,3 +10,9 @@ Horiseon requested that their website codebase be refactored to follow accessibi
 
 *The **CSS** was reformatted to reduce reduncdancy.
 *Comments were added in the **CSS** to aid in identifying what was being styled and to aid in readability.
+
+# **Repository Link**
+
+https://github.com/dcastelline/Homework-1-Code-Refactor/tree/main
+
+# **Deployed Link**
